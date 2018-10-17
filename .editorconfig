@@ -1,0 +1,11 @@
+root = true
+
+[*]
+charset = utf-8
+index_size = 4
+indent_style = space
+end_of_line = lf
+isert_final_newline = true
+
+[*.md]
+trim_trainlling_whitspace = false
